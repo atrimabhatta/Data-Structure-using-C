@@ -58,3 +58,29 @@ The non-primitive data structure is divided into two types:
 8. Write a program to allocate memory using malloc ( ) and then reallocate the previously allocated memory using realloc( ). Display the elements which have been taken after reallocation.
 9. Write a program to allocate memory using calloc( ) and then reallocate the previously allocated memory using realloc( ). Display the elements which have been taken after reallocation.
 10. Write a C program to search an element in an Array using dynamic memory allocation.
+
+### Topic: Linked List
+
+1) Write a Menu driven C program to accomplish the following functionalities in single
+linked list.
+a) Create a single linked list.
+b) Display the elements of a single linked list.
+c) Insert a node at the beginning of a single linked list.
+d) Insert a node at the end of a single linked list.
+e) Insert a node before a given node of a single linked list.
+f) Insert a node after a given node of a single linked list.
+g) Delete a node from the beginning of a single linked list.
+h) Delete a node from the end of a single linked list.
+i) Delete a node after a given node of a single linked list.
+j) Delete the entire single linked list.
+
+2) Write a Menu driven C program to accomplish the following functionalities in circular
+linked list.
+a) Create a circular linked list.
+b) Display the elements of a circular linked list.
+c) Insert a node at the beginning of a circular linked list.
+d) Insert a node at the end of a circular linked list.
+e) Delete a node from the beginning of a circular linked list.
+f) Delete a node from the end of a circular linked list.
+g) Delete a node after a given node of a circular linked list.
+h) Delete the entire circular linked list.
